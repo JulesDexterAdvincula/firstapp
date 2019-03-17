@@ -1,2 +1,2 @@
-#firstApp
+#FirstApp
 This is my first app in GitHub for practicing purposes.
